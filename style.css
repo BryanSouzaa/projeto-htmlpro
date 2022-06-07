@@ -159,7 +159,7 @@ footer p{
     
 }
 
-@media(max-width: 370px){
+@media(max-width: 420px){
     .section-1{
         display: flex;
         flex-direction: column;
